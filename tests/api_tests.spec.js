@@ -24,7 +24,7 @@ test('API POST request', async({request}) => {
 })
 
 
-test('API Post test to create Booking', async({request}) =>{
+test('API POST request test to create Booking', async({request}) =>{
 
     const bookData = {
         "firstname": "Mark",
