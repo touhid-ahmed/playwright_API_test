@@ -1,6 +1,5 @@
 import {test, expect} from '@playwright/test'
 
-// Used the reqres.in API for fetching fake data
 
 test('API POST request', async({request}) => {
 
